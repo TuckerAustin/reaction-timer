@@ -1,4 +1,5 @@
 # reaction-timer
+This was an exercise in working a multi-component Vue app
 
 ## Project setup
 ```
